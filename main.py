@@ -45,6 +45,7 @@ def home():
             <form method="POST">
                 <button type="submit">Dapatkan kata Motivasi</button>
             </form>
+            <h2>Have a fantastic day, love you <3</h2>
             <h3>{{ message }}</h3>
         </body>
         </html>
